@@ -1,5 +1,5 @@
 [package]
-name = "witty"
+name = "wit-ai"
 description = "An API client made in Rust for interacting with https://wit.ai"
 license = "MIT"
 version = "0.1.0"
